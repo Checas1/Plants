@@ -5,4 +5,4 @@ Tools:
 - CSS
 - JS
 
-Deployment link [here]: https://checas1.github.io/Plants/
+Deployment link [here][https://checas1.github.io/Plants/]
